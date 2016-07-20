@@ -1,0 +1,10 @@
+D:\This PC\Documents\Trainers\Trainers\KingdomRushTrainer\KingdomRushTrainer\bin\Release\KingdomRushTrainer.exe.config
+D:\This PC\Documents\Trainers\Trainers\KingdomRushTrainer\KingdomRushTrainer\bin\Release\KingdomRushTrainer.exe
+D:\This PC\Documents\Trainers\Trainers\KingdomRushTrainer\KingdomRushTrainer\bin\Release\KingdomRushTrainer.pdb
+D:\This PC\Documents\Trainers\Trainers\KingdomRushTrainer\KingdomRushTrainer\bin\Release\Memory.dll
+D:\This PC\Documents\Trainers\Trainers\KingdomRushTrainer\KingdomRushTrainer\obj\Release\KingdomRushTrainer.csprojResolveAssemblyReference.cache
+D:\This PC\Documents\Trainers\Trainers\KingdomRushTrainer\KingdomRushTrainer\obj\Release\KingdomRushTrainer.Form1.resources
+D:\This PC\Documents\Trainers\Trainers\KingdomRushTrainer\KingdomRushTrainer\obj\Release\KingdomRushTrainer.Properties.Resources.resources
+D:\This PC\Documents\Trainers\Trainers\KingdomRushTrainer\KingdomRushTrainer\obj\Release\KingdomRushTrainer.csproj.GenerateResource.Cache
+D:\This PC\Documents\Trainers\Trainers\KingdomRushTrainer\KingdomRushTrainer\obj\Release\KingdomRushTrainer.exe
+D:\This PC\Documents\Trainers\Trainers\KingdomRushTrainer\KingdomRushTrainer\obj\Release\KingdomRushTrainer.pdb
